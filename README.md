@@ -1,4 +1,3 @@
-<img width="1357" height="766" alt="Captura de tela 2026-05-14 161601" src="https://github.com/user-attachments/assets/b0e3e2ac-fec5-48c4-9649-78ee75fea378" />
 # SaúdeBR — Painel de Inteligência da Saúde Pública Brasileira
 
 [![Power BI](https://img.shields.io/badge/Visualização-Power%20BI-yellow)](https://app.powerbi.com/view?r=eyJrIjoiN2E0OGUzOTYtZTc4Mi00ZGIyLTg1NmUtOTBmNzU2MTk0YWVlIiwidCI6ImY5OTZjZmRiLTQyYWMtNGVhZC1iYzQzLThmZmY3Njc0Zjg4NiIsImMiOjR9)
@@ -14,16 +13,16 @@ O **SaúdeBR** é uma solução completa de dados que transforma os microdados c
 
 ### 1. Panorama de Internações (SIH/SUS)
 Análise de volume de internações com visão temporal e distribuição geográfica por UF.
-![Dashboard Página 1]<img width="1352" height="727" alt="Captura de tela 2026-05-14 161653" src="https://github.com/user-attachments/assets/e4fc9a91-d6a6-43c9-9bf0-7c0ef91b525b" />
+<img width="1352" height="727" alt="Captura de tela 2026-05-14 161653" src="https://github.com/user-attachments/assets/e4fc9a91-d6a6-43c9-9bf0-7c0ef91b525b" />
 
 ### 2. Análise de Mortalidade (SIM)
 Monitoramento epidemiológico de óbitos por local de residência e evolução anual.
-![Dashboard Página 2]<img width="1357" height="776" alt="Captura de tela 2026-05-14 161638" src="https://github.com/user-attachments/assets/c6340904-4021-436c-b7ef-120e177f9d7e" />
+<img width="1357" height="776" alt="Captura de tela 2026-05-14 161638" src="https://github.com/user-attachments/assets/c6340904-4021-436c-b7ef-120e177f9d7e" />
 
 
 ### 3. Capacidade Hospitalar (CNES)
 Visão crítica de oferta de leitos SUS vs Privados, identificando municípios abaixo da meta recomendada.
-![Dashboard Página 3]<img width="1357" height="766" alt="Captura de tela 2026-05-14 161601" src="https://github.com/user-attachments/assets/d714f62b-30b8-49e2-94c1-fb954ad69521" />
+<img width="1357" height="766" alt="Captura de tela 2026-05-14 161601" src="https://github.com/user-attachments/assets/d714f62b-30b8-49e2-94c1-fb954ad69521" />
 
 
 ## 🛠️ Tecnologias e Arquitetura
