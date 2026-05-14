@@ -13,7 +13,8 @@ O **SaúdeBR** é uma solução completa de dados que transforma os microdados c
 
 ### 1. Panorama de Internações (SIH/SUS)
 Análise de volume de internações com visão temporal e distribuição geográfica por UF.
-<img width="1352" height="727" alt="Captura de tela 2026-05-14 161653" src="https://github.com/user-attachments/assets/e4fc9a91-d6a6-43c9-9bf0-7c0ef91b525b" />
+<img width="1357" height="766" alt="Captura de tela 2026-05-14 161601" src="https://github.com/user-attachments/assets/61b26879-5f6e-41ea-b6aa-207401d70ab5" />
+
 
 ### 2. Análise de Mortalidade (SIM)
 Monitoramento epidemiológico de óbitos por local de residência e evolução anual.
@@ -22,7 +23,7 @@ Monitoramento epidemiológico de óbitos por local de residência e evolução a
 
 ### 3. Capacidade Hospitalar (CNES)
 Visão crítica de oferta de leitos SUS vs Privados, identificando municípios abaixo da meta recomendada.
-<img width="1357" height="766" alt="Captura de tela 2026-05-14 161601" src="https://github.com/user-attachments/assets/d714f62b-30b8-49e2-94c1-fb954ad69521" />
+<img width="1352" height="727" alt="Captura de tela 2026-05-14 161653" src="https://github.com/user-attachments/assets/e4fc9a91-d6a6-43c9-9bf0-7c0ef91b525b" />
 
 
 ## 🛠️ Tecnologias e Arquitetura
